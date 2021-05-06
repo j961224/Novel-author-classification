@@ -7,8 +7,8 @@ link: https://dacon.io/competitions/official/235670/overview/description/
 
 * 가장 높게 나온 기법
 
- - 사전 학습 모델 word2Vec + Bi-LSTM
+  - 사전 학습 모델 word2Vec + Bi-LSTM
  
-  - loss:0.7
-  - accuracy:0.73
+   - loss:0.7
+   - accuracy:0.73
 
